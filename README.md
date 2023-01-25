@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sunwoo604
-- 👀 I’m interested in building games and machine learning
-- 🌱 I’m currently learning Data Science and Computer Science
-- 💞️ I’m looking to collaborate on making games
+- 👀 I’m interested in software developing and machine learning
+- 🌱 I’m currently learning Data Science and Computer Engineering
 - 📫 How to reach me email:sunwoo604@gmail.com instagram:sunwookim.01
 
 <!---
