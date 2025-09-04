@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sunwoo (Sunny0 Kim</h1>
+<h1 align="center">Hi 👋, I'm Sunwoo (Sunny) Kim</h1>
 <h3 align="center">Aspring Software/ML Engineer from MS at USC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunwoo604&label=Profile%20views&color=0e75b6&style=flat" alt="sunwoo604" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sunwoo604.github.io/](https://sunwoo604.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://sunwoo604.github.io/)
 
 - 📫 How to reach me **sunwoo604@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1QQUyLwYOEyCekkn4FLPtP9e9kwLFtRBKygy84g-LPfg/edit?tab=t.0](https://docs.google.com/document/d/1QQUyLwYOEyCekkn4FLPtP9e9kwLFtRBKygy84g-LPfg/edit?tab=t.0)
+- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1QQUyLwYOEyCekkn4FLPtP9e9kwLFtRBKygy84g-LPfg/edit?tab=t.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
