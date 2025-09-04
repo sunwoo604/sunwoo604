@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sunwoo (Sunny) Kim</h1>
-<h3 align="center">Aspring Software/ML Engineer from MS at USC</h3>
+<h1 align="left">Hi 👋, I'm Sunwoo (Sunny) Kim</h1>
+<h3 align="left">Aspring Software/ML Engineer from MS at USC</h3>
+`Prev SWE Intern @ TikTok`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunwoo604&label=Profile%20views&color=0e75b6&style=flat" alt="sunwoo604" /> </p>
 
