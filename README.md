@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunwoo604&label=Profile%20views&color=0e75b6&style=flat" alt="sunwoo604" /> </p>
 
-- 🔭 The most recent project is [DetachedOut](https://detachedout.com/)
+- 🔭 Currently building [KODO](https://www.withkodo.com/)
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://sunwoo604.github.io/)
 
