@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sunwoo (Sunny) Kim
-### Aspiring Software/ML Engineer from MS at USC
-**`Prev SWE Intern @ TikTok`**
+### SWE building things as well
+**`Software Engineer @ Google | Prev @ TikTok`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunwoo604&label=Profile%20views&color=0e75b6&style=flat" alt="sunwoo604" /> </p>
 
